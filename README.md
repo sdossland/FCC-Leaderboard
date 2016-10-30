@@ -1,3 +1,19 @@
+#React projects - FCC_Leaderbaord
+
+Objective - Build a leaderboard using HTML, CSS, React, APIs
+
+Requirements:
+-create a table of the Free Code Camp campers who've earned the most brownie points in the past 30 days
+-show how many brownie points they've earned in the past 30 days, and how many they've earned total
+-create a toggle between sorting the list by how many brownie points they've earned in the past 30 days and by how many brownie points they've earned total
+
+HINTS:
+-to get the top 100 campers for the last 30 days: https://fcctop100.herokuapp.com/api/fccusers/top/recent
+-to get the top 100 campers of all time: https://fcctop100.herokuapp.com/api/fccusers/top/alltime
+
+__________________________________________________________________
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.  
