@@ -1,0 +1,77 @@
+#root {
+  width: 740px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  border-radius: 5px;
+}
+
+.noCol {
+  width: 75px;
+}
+
+.pointsCol {
+  width: 195px;
+}
+
+td.pointsCol, td.noCol {
+  text-align: center;
+}
+
+.camperName {
+  width: 275px;
+  text-align: left;
+}
+
+.camperNameTxt {
+  margin-left: 5px;
+}
+
+img {
+  height: 40px;
+  width: 40px;
+  border: 2px solid black;
+  border-radius: 8px;
+  vertical-align: middle;
+}
+
+.application {
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.applicationTitle {
+  padding: 15px;
+  height: 25px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  letter-spacing: 4px;
+  background: #33404d;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+}
+
+th {
+  height: 45px;
+  background: #5c738a;
+  font-size: 18px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.odd {
+  background: black;
+}
+
+td {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+tr:nth-child(odd) {
+  background: #c2ccd6;
+}
